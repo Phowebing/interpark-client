@@ -1,0 +1,87 @@
+{
+  "total": 12,
+  "good_1": {
+    "image": "images/r1.jpg",
+    "discount": 27,
+    "price": 49900,
+    "desc": "[스포츠파크] 노스페이스 겨울 구스다운 패딩 슬립온 NS93M50",
+    "url": "a.html"
+  },
+  "good_2": {
+    "image": "images/r2.jpg",
+    "discount": 38,
+    "price": 12500,
+    "desc": "서울우유 멸균 초코/딸기/흰우유 24팩/48팩 외",
+    "url": "a.html"
+  },
+  "good_3": {
+    "image": "images/r3.jpg",
+    "discount": 0,
+    "price": 15500,
+    "desc": "17~18브릭스 미니 꿀사과 엔비사과 2kg (5-9과/가정용/펜시등급)",
+    "url": "a.html"
+  },
+  "good_4": {
+    "image": "images/r4.png",
+    "discount": 22,
+    "price": 6900,
+    "desc": "[I*POP] 아이팝 스파클링 워터 플레인 / 아이팝 탄산수 / 강탄산 / 진짜 먹는 샘물로 만든 탄산수",
+    "url": "a.html"
+  },
+  "good_5": {
+    "image": "images/r5.jpg",
+    "discount": 22,
+    "price": 39000,
+    "desc": "베어파우 키즈 방한 패딩 양털 부츠 베이비 남아 여아 아기 어린이 유아",
+    "url": "a.html"
+  },
+  "good_6": {
+    "image": "images/r6.jpg",
+    "discount": 29,
+    "price": 34900,
+    "desc": "[쎈딜][스포츠파크] 뉴발란스 남성 UNI 에센셜 스몰로고 맨투맨 4종택1",
+    "url": "a.html"
+  },
+  "good_7": {
+    "image": "images/r7.jpg",
+    "discount": 2,
+    "price": 22000,
+    "desc": "[쎈딜][더쎈위크] 롯데빼빼로 3종 x 20갑 (오리지널/아몬드/초코필드) 골라담기",
+    "url": "a.html"
+  },
+  "good_8": {
+    "image": "images/r8.jpg",
+    "discount": 11,
+    "price": 7580,
+    "desc": "제주도 노지귤 혼합과 새콤달콤 4.5kg 9kg",
+    "url": "a.html"
+  },
+  "good_9": {
+    "image": "images/r9.jpg",
+    "discount": 35,
+    "price": 26900,
+    "desc": "[쎈딜][한정수량특가] 한양식품 국내산 꽃보다오징어 오리지날 260g+260g",
+    "url": "a.html"
+  },
+  "good_10": {
+    "image": "images/r10.jpg",
+    "discount": 13,
+    "price": 14900,
+    "desc": "[쎈딜] 고급 망고포도 샤인머스캣 씨없는 청포도 1KG 2KG 4KG 3-5수",
+    "url": "a.html"
+  },
+  "good_11": {
+    "image": "images/r11.jpg",
+    "discount": 17,
+    "price": 108000,
+    "desc": "[스포츠파크] 노스페이스 컴피 알파 플리스 집업 NJ4FP57 JKL ALL",
+    "url": "a.html"
+  },
+  "good_12": {
+    "image": "",
+    "discount": 0,
+    "price": 0,
+    "desc": "",
+    "url": ""
+  }
+}

@@ -1,0 +1,122 @@
+.book {
+  position: relative;
+  padding-bottom: 90px;
+}
+.book-inner {
+  position: relative;
+  width: 1280px;
+  margin: 0 auto;
+}
+.book-header {
+  position: relative;
+  text-align: center;
+}
+.book-title {
+  position: relative;
+  font-size: 2.8rem;
+  margin-bottom: 10px;
+}
+.book-txt {
+  position: relative;
+  font-size: 1.8rem;
+  color: #a7a7a7;
+}
+
+.book-main {
+  position: relative;
+  padding: 25px 0;
+}
+.book-category {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+.book-list {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.book-cate-bt {
+  position: relative;
+  border: 1px solid #e5e5e5;
+  display: block;
+  padding: 0 20px;
+  line-height: 42px;
+  border-radius: 44px;
+  background-color: #fff;
+  color: #000;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 400;
+}
+.book-cate-bt-active {
+  position: relative;
+  border: 1px solid transparent !important;
+  background-color: #333 !important;
+  font-weight: 700 !important;
+  color: #fff !important;
+}
+
+.book-slide-wrap {
+  position: relative;
+  height: 400px;
+  margin-top: 23px;
+  margin-bottom: 20px;
+}
+.book-slide-item {
+  position: relative;
+  width: 235px;
+}
+.book-img {
+  position: relative;
+  height: 340px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  border: 0.1rem solid rgba(0, 0, 0, 0.06);
+  background: #f3f3f3;
+}
+.book-img img {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  overflow: hidden;
+}
+.book-info {
+  color: #111;
+  text-align: center;
+}
+.book-item-name {
+  font-size: 1.5rem;
+  line-height: 1.8rem;
+  word-break: break-all;
+  text-overflow: ellipsis;
+  margin-bottom: 0;
+}
+.book-item-name i {
+  font-style: normal;
+}
+.book-price {
+  margin-top: 0.4rem;
+}
+.book-price b {
+  font-style: normal;
+  font-size: 2rem;
+}
+.book-price span {
+  font-style: normal;
+  font-size: 1.6rem;
+}
+
+.book-footer {
+  position: relative;
+  text-align: center;
+}
+.book-slide-wrap .slide-next-bt {
+  transform: translate(50%, calc(50% - 100px));
+}
+.book-slide-wrap .slide-prev-bt {
+  transform: translate(-50%, calc(-50% - 50px));
+}

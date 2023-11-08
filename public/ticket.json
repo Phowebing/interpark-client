@@ -1,0 +1,67 @@
+{
+  "total": 8,
+  "ticket_1": {
+    "image": "images/tk1.gif",
+    "tname": "뮤지컬〈미드나잇:액터뮤지션",
+    "place": "대학로 아트원씨어터 1관",
+    "duration": "2023.12.09 - 2024.01.21",
+    "seat": "",
+    "url": "c.html"
+  },
+  "ticket_2": {
+    "image": "images/tk2.gif",
+    "tname": "태양의서커스 [루치아]",
+    "place": "잠실종합운동장 내 빅탑",
+    "duration": "2023.10.25 - 2023.12.31",
+    "seat": "좌석우위",
+    "url": "c.html"
+  },
+  "ticket_3": {
+    "image": "images/tk3.gif",
+    "tname": "뮤지컬〈몬테크리스토〉",
+    "place": "충무아트센터 대극장",
+    "duration": "2023.11.21 ~2024.02.25",
+    "seat": "",
+    "url": "c.html"
+  },
+  "ticket_4": {
+    "image": "images/tk4.gif",
+    "tname": "뮤지컬〈문스토리〉",
+    "place": "드림아트센터 4관",
+    "duration": "2023.09.26 ~2023.12.10",
+    "seat": "",
+    "url": "c.html"
+  },
+  "ticket_5": {
+    "image": "images/tk5.gif",
+    "tname": "뮤지컬〈렌트〉",
+    "place": "coex 신한카드 artium",
+    "duration": "2023.11.11 ~2024.02.25",
+    "seat": "단독판매",
+    "url": "c.html"
+  },
+  "ticket_6": {
+    "image": "images/tk6.gif",
+    "tname": "뮤지컬〈레미제라블〉",
+    "place": "블루스퀘어 신한카드홀",
+    "duration": "2023.11.30 ~2024.03.10",
+    "seat": "단독판매",
+    "url": "c.html"
+  },
+  "ticket_7": {
+    "image": "images/tk7.gif",
+    "tname": "대학로 아트원씨어터 1관",
+    "place": "잠실종합운동장 내 빅탑",
+    "duration": "2023.09.12 ~2023.12.03",
+    "seat": "단독판매",
+    "url": "c.html"
+  },
+  "ticket_8": {
+    "image": "images/tk1.gif",
+    "tname": "태양의서커스 [루치아]",
+    "place": "잠실종합운동장 내 빅탑",
+    "duration": "2023.10.25 - 2023.12.31",
+    "seat": "단독판매",
+    "url": "c.html"
+  }
+}

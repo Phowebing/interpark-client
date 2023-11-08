@@ -1,0 +1,124 @@
+.live {
+  position: relative;
+  padding-top: 0;
+  padding-bottom: 90px;
+}
+.live-inner {
+  position: relative;
+  width: 1280px;
+  margin: 0 auto;
+}
+.live-header {
+  position: relative;
+}
+.live-title {
+  position: relative;
+  margin-bottom: 10px;
+  font-size: 2.8rem;
+  font-weight: 700;
+  color: #000;
+  text-align: center;
+}
+.live-title img {
+  height: 4rem;
+}
+.live-header {
+  position: relative;
+}
+.live-main {
+  position: relative;
+}
+.live-slide-wrap {
+  position: relative;
+  background-color: yellowgreen;
+  margin-top: 23px;
+}
+.live-slide-item {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  border-radius: 15px;
+  height: 456px;
+}
+.live-slide-slot {
+  position: relative;
+}
+.live-slide-mini {
+  position: relative;
+}
+.live-link {
+  position: relative;
+  display: block;
+}
+.live-img {
+  position: relative;
+}
+.live-img img {
+  position: absolute;
+  object-fit: cover;
+  height: 456px;
+}
+
+.live-info {
+  position: relative;
+  display: flex;
+}
+.live-info-list {
+  position: relative;
+  top: 2rem;
+  padding: 0 2rem;
+}
+.live-info-status {
+  display: inline-block;
+  height: 3.2rem;
+  padding: 0 1.2rem;
+  margin-bottom: 0.8rem;
+  font-size: 1.3rem;
+  line-height: 3.2rem;
+  border-radius: 1.6rem;
+  font-weight: 700;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+}
+.live-info-title {
+  display: -webkit-box;
+  overflow: hidden;
+  word-break: break-all;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  color: #fff;
+  font-size: 2rem;
+  line-height: 2.4rem;
+  font-weight: 700;
+  text-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.5);
+}
+.live-soon {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 456px;
+  text-align: center;
+}
+
+.live-soon-inner {
+  color: #fff;
+  z-index: 1;
+}
+.live-date {
+  margin-bottom: 0.4rem;
+  font-size: 2.8rem;
+  line-height: 3.35rem;
+}
+.live-time {
+  font-size: 5rem;
+  line-height: 6rem;
+  font-weight: 700;
+}
+.live-footer {
+  position: relative;
+  text-align: center;
+  margin-top: 20px;
+}
